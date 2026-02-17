@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is my personal website built with Quarto.\nFeel free to explore and learn more about my work and interests."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "This is my personal website built with Quarto.\nFeel free to explore and learn more about my work and interests."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is my personal website hosted on GitHub Pages and built with Quarto.\n\n\nThis site is automatically built and deployed using GitHub Actions whenever changes are pushed to the repository.\n\n\n\nYou can customize this site by editing the .qmd files in the repository."
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Welcome",
+    "section": "",
+    "text": "This site is automatically built and deployed using GitHub Actions whenever changes are pushed to the repository."
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "Welcome",
+    "section": "",
+    "text": "You can customize this site by editing the .qmd files in the repository."
+  }
+]
