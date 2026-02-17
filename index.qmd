@@ -1,0 +1,15 @@
+---
+title: "Welcome"
+---
+
+# Welcome to My Personal Website
+
+This is my personal website hosted on GitHub Pages and built with Quarto.
+
+## About This Site
+
+This site is automatically built and deployed using GitHub Actions whenever changes are pushed to the repository.
+
+## Getting Started
+
+You can customize this site by editing the `.qmd` files in the repository.
